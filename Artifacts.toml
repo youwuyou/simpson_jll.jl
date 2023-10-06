@@ -1,0 +1,127 @@
+[[simpson]]
+arch = "aarch64"
+git-tree-sha1 = "efb506b9a9b4a307b0ec802a22cbacfe1e362b2e"
+os = "macos"
+
+    [[simpson.download]]
+    sha256 = "5749f48b8c272aa10b7240f73d395e606061865ef9a33408334586359670c574"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.aarch64-apple-darwin.tar.gz"
+[[simpson]]
+arch = "aarch64"
+git-tree-sha1 = "b58f943c838accb4efde49603569410ca0e0c5c0"
+libc = "glibc"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "d5e22789da0f7a5912e3a423e19fa34737ef275ed71237774dfd6a92ef266bbb"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.aarch64-linux-gnu.tar.gz"
+[[simpson]]
+arch = "aarch64"
+git-tree-sha1 = "6ae08ea7ee4476c46a7fcbdb6fa7c5cf82a2e799"
+libc = "musl"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "b52c7856094f51c8f101b40cbe1f932ece2c6329cb46457ab4e20e96d845f536"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.aarch64-linux-musl.tar.gz"
+[[simpson]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "96809e05b8123420d8911ed3a5392806cfc5ab89"
+libc = "glibc"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "2d41a3912be8e970ad0f4d672691bf448a61c336e5a75241dde7eff37fc25af5"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.armv6l-linux-gnueabihf.tar.gz"
+[[simpson]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "8c94b426bb9a7184b9f36ac093d32fc27f3ff91f"
+libc = "musl"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "0d6bf497f326b96a7ce4041e5f784c5eddadbbb669b4a515d3725d19fa342b3d"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.armv6l-linux-musleabihf.tar.gz"
+[[simpson]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "296779721fee5f6fbb1b48141fc3e446339ec084"
+libc = "glibc"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "6e9e8a5f96b509a340edd34d9bb71d82dc6aa5533ae0ace6c604530913e5112b"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.armv7l-linux-gnueabihf.tar.gz"
+[[simpson]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "edcc395c3311be5dea126da3cc0886c2a0510b4d"
+libc = "musl"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "353fded694db909f73c244f6545ae29307746dd864be18f127270bb5a602dc19"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.armv7l-linux-musleabihf.tar.gz"
+[[simpson]]
+arch = "i686"
+git-tree-sha1 = "ffe170a531d603fa82909a72a7a905f30a0ee65f"
+libc = "glibc"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "8204d4e786dc78e85f6b8c98b85ea4af09e5b4513c6110ac1b1a9d0a9f636448"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.i686-linux-gnu.tar.gz"
+[[simpson]]
+arch = "i686"
+git-tree-sha1 = "54af5abba786b7ae29dcfea4cf6e4f3ced25ce67"
+libc = "musl"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "7b05d35215258bf26e43c3d57b368c73e5f9ee60503caa1e1ca56b811dcaf882"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.i686-linux-musl.tar.gz"
+[[simpson]]
+arch = "powerpc64le"
+git-tree-sha1 = "63014db642982550ad79fca577f0c2ecede6f4d4"
+libc = "glibc"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "0e4780c6d1d7cc7f1d433a9994bf7264f95ed3ae06597731a87d1c2c771b4954"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.powerpc64le-linux-gnu.tar.gz"
+[[simpson]]
+arch = "x86_64"
+git-tree-sha1 = "292511f8b7edcbf1fe833f73b24cb545c3f7960f"
+os = "macos"
+
+    [[simpson.download]]
+    sha256 = "47ba269776921fd77445fcf7c7deb356117252bfc7a3f21e0a6a4a5f2d46be4b"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.x86_64-apple-darwin.tar.gz"
+[[simpson]]
+arch = "x86_64"
+git-tree-sha1 = "079a7aeffebaa3515c7a7c91d541e6848a553f49"
+libc = "glibc"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "b03cdf7f3c5e7870a68d94b47130b1d067bbd6861e40b48d0fb9ff05400adb06"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.x86_64-linux-gnu.tar.gz"
+[[simpson]]
+arch = "x86_64"
+git-tree-sha1 = "0645e5e29d83ca2dc660992e7853c57a38fd7805"
+libc = "musl"
+os = "linux"
+
+    [[simpson.download]]
+    sha256 = "b7b2f254af39ced7f4be8050393dc6f714efbf5714be56d33929ec7e1a4b01cb"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.x86_64-linux-musl.tar.gz"
+[[simpson]]
+arch = "x86_64"
+git-tree-sha1 = "5b43cd3792b6704c36bbbb6803d253beb2829058"
+os = "freebsd"
+
+    [[simpson.download]]
+    sha256 = "3419211d28ff33564037b21c96a3821e214bff279e3acf70da04d310dac2856e"
+    url = "https://github.com/youwuyou/simpson_jll.jl/releases/download/simpson-v0.0.0+0/simpson.v0.0.0.x86_64-unknown-freebsd.tar.gz"
